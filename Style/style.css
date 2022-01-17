@@ -1,0 +1,33 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: rgb(219, 217, 206);
+    min-height: 100%;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background: white;
+    height: 175px;
+}
+
+.icone {
+    width: 80px;
+    height: 80px;
+}
+
+.brand {
+    font-size: 1.5em;
+}
+
+nav a {
+    color: rgb(192, 192, 192);
+    font-size: 1.5em;
+}
+
+nav a:hover {
+    color: rgb(112, 155, 112);
+}
